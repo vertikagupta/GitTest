@@ -4,7 +4,7 @@
 body {
 	font-family: abel;
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 300;
 }
 
 @media braille{<img src="room1.PNG" width="1014" height="553" alt=""/>function areaOfCircle(radius) { return Math.PI * Math.pow(radius, 2); }
